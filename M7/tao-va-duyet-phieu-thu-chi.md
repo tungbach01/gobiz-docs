@@ -1,5 +1,5 @@
 
-# Tạo và duyệt phiếu thu/chi
+# Tạo và duyệt phiếu thu/chi.
 
 ### 1. Tạo và duyệt phiếu thu
   *Để tạo phiếu thu người tạo phải có quyền xem tài khoản quỹ và các quyền liên quan đến phiếu thu*
