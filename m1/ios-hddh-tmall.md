@@ -3,14 +3,17 @@
 Để đặt hàng trên taobao bằng phần mềm đặt hàng Gobiz, đầu tiên quý khách vui lòng **đăng nhập** tài khoản đặt hàng trên **Gobiz** và trên **Tmall**.
 
 **Bước 1:** Quý khách tìm link sản phẩm trên Tmall
+
 Quý khách chọn sản phẩm trên trang, ấn vào biểu tượng (1), (2) để lấy link sản phẩm
 
 ![image](https://user-images.githubusercontent.com/109578103/202605326-3e324c3b-f7fe-4e04-b589-d5e283496e76.png)
 
 **Bước 2:** Đặt hàng với phần mềm đặt hàng Gobiz
+
 Quý khách truy cập phần mềm Gobiz. Tùy theo hệ điều hành, sẽ có 2 trường hợp sau:
 
 ***Trường hợp 1: Hệ thống không tự động lấy link sản phẩm***
+
 Tại giao diện chính, quý khách chọn **Thêm sản phẩm**
 
 ![image](https://user-images.githubusercontent.com/109578103/202605399-5d59f171-548c-4f06-bbc4-8f399f296ec5.png)
@@ -20,11 +23,13 @@ Quý khách dán link sản phẩm vào hộp thoại và ấn **Thêm sản ph�
 ![image](https://user-images.githubusercontent.com/109578103/202605450-5c0e411b-d125-444f-8110-0180603cc0b6.png)
 
 ***Trường hợp 2: Hệ thống tự động lấy link vào danh sách link sản phẩm***
+
 Quý khách ấn vào biểu tượng hình con mắt để tiến hành đặt hàng
 
 ![image](https://user-images.githubusercontent.com/109578103/202605527-867eccc9-3c21-4864-8009-e52561559690.png)
 
 Sau đó, quý khách ấn chọn **Thêm vào giỏ hàng**
+
 Quý khách chọn thuộc tính sản phẩm và ấn **Thêm vào giỏ hàng**
 
 ![image](https://user-images.githubusercontent.com/109578103/202605639-f618bf34-f158-477b-8a3b-09abcfe9a9b0.png)
